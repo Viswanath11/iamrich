@@ -3,6 +3,7 @@
 //  IamRich
 //
 //  Created by Viswanath Subramani S S on 22/10/17.
+//	Assets provided by London App Brewery
 //  Copyright © 2017 ViswanathSubramaniSS. All rights reserved.
 //
 
